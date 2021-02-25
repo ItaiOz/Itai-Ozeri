@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b91afd98-a26c-4399-a35b-566776d744ca" name="Default Changelist" comment="updated simpsons file">
+      <change beforePath="$PROJECT_DIR$/simpsons.html" beforeDir="false" afterPath="$PROJECT_DIR$/simpsons.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oszG0olMwyoRAFSTRIn9qBTx15" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91afd98-a26c-4399-a35b-566776d744ca" name="Default Changelist" comment="" />
+      <created>1614089987685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614089987685</updated>
+      <workItem from="1614089989271" duration="3046000" />
+      <workItem from="1614168932572" duration="17218000" />
+    </task>
+    <task id="LOCAL‎00001" summary="updated simpsons file">
+      <created>1614212592405</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1614212592405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated simpsons file" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated simpsons file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2426" y="133" key="RollbackChangesDialog" timestamp="1614203459101">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="2426" y="133" key="RollbackChangesDialog/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1614203459101" />
+    <state x="2281" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614212640444">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="2281" y="145" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1614212640444" />
+  </component>
+</project>
