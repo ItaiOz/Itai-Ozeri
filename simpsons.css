@@ -39,7 +39,7 @@ img, iframe{
         object-fit: contain;
     }
     iframe{
-    object-fit: scale-down;
+    object-fit: fill;
   }
 
 }
